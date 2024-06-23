@@ -1,4 +1,4 @@
 Hello world, this is master branch.
 This is the line we want to edit it.
 This is line 3 of merge branch added to test.
-This is line 4 and editing it.
+This is line 4 and editing it for real this time.
