@@ -1,3 +1,3 @@
 Hello world, this is master branch.
-This is line 2 of master branch and editing it.
+This is line 2 and editing it.
 This is line 3 of merge branch added to test.
